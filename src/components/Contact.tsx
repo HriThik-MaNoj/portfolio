@@ -11,7 +11,7 @@ const Contact = () => {
             I'm always open to new opportunities and collaborations. Feel free to reach out!
           </p>
           <div className="flex justify-center space-x-6">
-            <a href="mailto:your.email@example.com" className="text-white hover:text-green-400 transition-colors transform hover:scale-110">
+            <a href="mailto:hrithikmanoj000@gmail.com" className="text-white hover:text-green-400 transition-colors transform hover:scale-110">
               <Mail className="w-8 h-8" />
             </a>
             <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors transform hover:scale-110">

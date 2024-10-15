@@ -19,8 +19,8 @@ const About = () => {
           </div>
           <div className="bg-gray-700 p-6 rounded-lg shadow-lg transform hover:scale-105 transition-all duration-300">
             <Server className="w-16 h-16 mx-auto mb-4 text-purple-400" />
-            <h3 className="text-xl font-semibold mb-2 text-center">System Administrator</h3>
-            <p className="text-gray-300 text-center">Experienced in managing and securing complex IT infrastructures.</p>
+            <h3 className="text-xl font-semibold mb-2 text-center">Linux Enthusiast</h3>
+            <p className="text-gray-300 text-center">Proficient in Linux command-line operations and system management.</p>
           </div>
           <div className="bg-gray-700 p-6 rounded-lg shadow-lg transform hover:scale-105 transition-all duration-300">
             <Bitcoin className="w-16 h-16 mx-auto mb-4 text-yellow-400" />
