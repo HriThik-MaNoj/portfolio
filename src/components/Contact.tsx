@@ -14,10 +14,10 @@ const Contact = () => {
             <a href="mailto:hrithikmanoj000@gmail.com" className="text-white hover:text-green-400 transition-colors transform hover:scale-110">
               <Mail className="w-8 h-8" />
             </a>
-            <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors transform hover:scale-110">
+            <a href="https://www.linkedin.com/in/hrithik-manoj-850660204" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400 transition-colors transform hover:scale-110">
               <Linkedin className="w-8 h-8" />
             </a>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-white hover:text-purple-400 transition-colors transform hover:scale-110">
+            <a href="https://github.com/HriThik-MaNoj" target="_blank" rel="noopener noreferrer" className="text-white hover:text-purple-400 transition-colors transform hover:scale-110">
               <Github className="w-8 h-8" />
             </a>
           </div>
